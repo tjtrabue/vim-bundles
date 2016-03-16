@@ -19,3 +19,24 @@
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = git://github.com/mattn/emmet-vim.git
+[submodule "tabular"]
+	path = tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "supertab"]
+	path = supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git://github.com/tpope/vim-bundler.git

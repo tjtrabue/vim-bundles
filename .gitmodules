@@ -40,3 +40,6 @@
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "vim-multiple-cursors"]
+	path = vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git

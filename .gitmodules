@@ -46,3 +46,6 @@
 [submodule "gundo.vim"]
 	path = gundo.vim
 	url = git@github.com:sjl/gundo.vim.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = git@github.com:rking/ag.vim.git

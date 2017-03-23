@@ -13,9 +13,6 @@
 [submodule "vim-surround"]
 	path = vim-surround
 	url = git://github.com/tpope/vim-surround.git
-[submodule "ctrlp.vim"]
-	path = ctrlp.vim
-	url = git://github.com/kien/ctrlp.vim.git
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
@@ -52,3 +49,6 @@
 [submodule "badwolf"]
 	path = badwolf
 	url = git@github.com:sjl/badwolf.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git

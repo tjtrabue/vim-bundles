@@ -28,9 +28,6 @@
 [submodule "tabular"]
 	path = tabular
 	url = git://github.com/godlygeek/tabular.git
-[submodule "supertab"]
-	path = supertab
-	url = git@github.com:ervandew/supertab.git
 [submodule "vim-rails"]
 	path = vim-rails
 	url = git://github.com/tpope/vim-rails.git

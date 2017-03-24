@@ -64,3 +64,6 @@
 [submodule "vim-easymotion"]
 	path = vim-easymotion
 	url = git@github.com:easymotion/vim-easymotion.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git

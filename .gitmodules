@@ -52,3 +52,12 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "tmuxline.vim"]
+	path = tmuxline.vim
+	url = git@github.com:edkolev/tmuxline.vim.git

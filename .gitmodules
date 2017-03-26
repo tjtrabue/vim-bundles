@@ -64,3 +64,6 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = git@github.com:Shougo/unite.vim.git

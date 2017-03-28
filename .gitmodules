@@ -67,3 +67,6 @@
 [submodule "unite.vim"]
 	path = unite.vim
 	url = git@github.com:Shougo/unite.vim.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = git@github.com:honza/vim-snippets.git

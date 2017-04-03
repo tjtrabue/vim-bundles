@@ -73,3 +73,6 @@
 [submodule "ultisnips"]
 	path = ultisnips
 	url = git@github.com:SirVer/ultisnips.git
+[submodule "vim-colorschemes"]
+	path = vim-colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git

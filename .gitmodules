@@ -79,3 +79,6 @@
 [submodule "vim-exchange"]
 	path = vim-exchange
 	url = git@github.com:tommcdo/vim-exchange.git
+[submodule "gruvbox"]
+	path = gruvbox
+	url = git@github.com:morhetz/gruvbox.git

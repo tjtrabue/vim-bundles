@@ -76,3 +76,6 @@
 [submodule "vim-colorschemes"]
 	path = vim-colorschemes
 	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "vim-exchange"]
+	path = vim-exchange
+	url = git@github.com:tommcdo/vim-exchange.git

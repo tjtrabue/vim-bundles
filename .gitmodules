@@ -82,3 +82,6 @@
 [submodule "gruvbox"]
 	path = gruvbox
 	url = git@github.com:morhetz/gruvbox.git
+[submodule "haskell-vim"]
+	path = haskell-vim
+	url = git@github.com:neovimhaskell/haskell-vim.git
